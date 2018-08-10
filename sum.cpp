@@ -7,8 +7,10 @@ int mian()
 	int a, b;
 
 	cin >> a >> b;
-
-	cout << a + b << "\n";
+	
+	int c = a + b;
+	
+	cout << c << "\n";
 	
 	return 0;
 }
